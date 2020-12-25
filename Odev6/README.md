@@ -1,0 +1,1 @@
+apı'dan dosya çekme
